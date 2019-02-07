@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $PWD
 echo "Downloading Pinpoint Zip File Now "
-wget https://raw.githubusercontent.com/maheswarisk/pinpoint_agent_repo/master/pinpoint.config	
+wget https://raw.githubusercontent.com/ManjunathSwamy/pinpoint_agent_repo/master/pinpoint.config	
 #mkdir pinpoint_agent				   
 #cd pinpoint_agent                              
 wget https://raw.githubusercontent.com/maheswarisk/pinpoint_agent_repo-1/master/pinpoint-agent-1.7.1.zip  
